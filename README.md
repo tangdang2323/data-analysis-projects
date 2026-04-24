@@ -1,4 +1,4 @@
-# data-analysis-projects
+# retail_analysis
 
 # Анализ транзакций сети розничных магазинов
 
